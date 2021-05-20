@@ -14,7 +14,7 @@
   cd Bob 
   npm i 
   ```
-Start the servers bob first
+Start the servers, bob first
 
   ```bash 
   node bob.js
